@@ -1,12 +1,12 @@
 # Detecting Distributed Denial of Service (DDoS) Attacks
 
 ### Description
-Words...
+This repo has the code I used to predict DDoS's with the results discussed in the blog post with Two Six Labs.
 
 ### Use
-Words...
+The `evaluation.py` script evaluates a model, dataset, and set of positive examples using BGP data.
 
-### To Run
+#### To Run
 `python -m evaluation > output.txt`
 
 
