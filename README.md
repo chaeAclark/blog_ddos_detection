@@ -1,5 +1,12 @@
-# blog_ddos_detection
+# Detecting Distributed Denial of Service (DDoS) Attacks
 
-python -m evaluation > output.txt
+### Description
+Words...
+
+### Use
+Words...
+
+### To Run
+`python -m evaluation > output.txt`
 
 
