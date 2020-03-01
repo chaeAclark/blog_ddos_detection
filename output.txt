@@ -1,0 +1,351 @@
+(324, 144, 75)
+Baseline 1:  0.5
+
+Test Accuracy: 0.9166666666666666
+Test AUC:      0.9722222222222223
+Test Log-Loss: 0.3814531112780842
+Test MCC:      0.8451542547285166
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.8333333333333334
+Test AUC:      0.9166666666666667
+Test Log-Loss: 0.5085821005048404
+Test MCC:      0.7071067811865476
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.9166666666666666
+Test AUC:      1.0
+Test Log-Loss: 0.4540889610894352
+Test MCC:      0.8451542547285166
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.8333333333333334
+Test AUC:      0.8611111111111112
+Test Log-Loss: 0.5318818178249203
+Test MCC:      0.7071067811865476
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.8333333333333334
+Test AUC:      0.9722222222222223
+Test Log-Loss: 0.49413773657540583
+Test MCC:      0.7071067811865476
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      0.9444444444444444
+Test Log-Loss: 0.5484462930968123
+Test MCC:      0.5773502691896257
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.9166666666666666
+Test AUC:      0.9722222222222223
+Test Log-Loss: 0.3975399411564721
+Test MCC:      0.8451542547285166
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.6666666666666666
+Test AUC:      0.7777777777777778
+Test Log-Loss: 0.5545616477056864
+Test MCC:      0.3333333333333333
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      1.0
+Test Log-Loss: 0.5120928361500954
+Test MCC:      0.5773502691896257
+
+Baseline 1:  0.5
+
+Test Accuracy: 1.0
+Test AUC:      1.0
+Test Log-Loss: 0.5111084478926203
+Test MCC:      1.0
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.9166666666666666
+Test AUC:      1.0
+Test Log-Loss: 0.5001094385929095
+Test MCC:      0.8451542547285166
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      0.8333333333333334
+Test Log-Loss: 0.5435028438174268
+Test MCC:      0.50709255283711
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.8333333333333334
+Test AUC:      0.888888888888889
+Test Log-Loss: 0.5128006240769473
+Test MCC:      0.7071067811865476
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.8333333333333334
+Test AUC:      0.9444444444444445
+Test Log-Loss: 0.510176083639765
+Test MCC:      0.7071067811865476
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.8333333333333334
+Test AUC:      0.888888888888889
+Test Log-Loss: 0.5322205024517023
+Test MCC:      0.7071067811865476
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.5833333333333334
+Test AUC:      0.6666666666666666
+Test Log-Loss: 0.6383233805208581
+Test MCC:      0.1690308509457033
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      0.8611111111111112
+Test Log-Loss: 0.5626035920759735
+Test MCC:      0.5773502691896257
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      0.888888888888889
+Test Log-Loss: 0.5226538637868576
+Test MCC:      0.5773502691896257
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.9166666666666666
+Test AUC:      0.9444444444444445
+Test Log-Loss: 0.4421827729319296
+Test MCC:      0.8451542547285166
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      0.9722222222222223
+Test Log-Loss: 0.5393767939240085
+Test MCC:      0.5773502691896257
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      0.888888888888889
+Test Log-Loss: 0.49552118191456157
+Test MCC:      0.50709255283711
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      0.888888888888889
+Test Log-Loss: 0.5811991947432372
+Test MCC:      0.5773502691896257
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.9166666666666666
+Test AUC:      0.9722222222222223
+Test Log-Loss: 0.41434088045864
+Test MCC:      0.8451542547285166
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.8333333333333334
+Test AUC:      1.0
+Test Log-Loss: 0.5396999242869724
+Test MCC:      0.7071067811865476
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.9166666666666666
+Test AUC:      1.0
+Test Log-Loss: 0.41313909334004134
+Test MCC:      0.8451542547285166
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.9166666666666666
+Test AUC:      0.8611111111111112
+Test Log-Loss: 0.4998610727617569
+Test MCC:      0.8451542547285166
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      1.0
+Test Log-Loss: 0.5098880741860189
+Test MCC:      0.5773502691896257
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      0.9722222222222223
+Test Log-Loss: 0.5078517970543784
+Test MCC:      0.5773502691896257
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      0.8611111111111112
+Test Log-Loss: 0.5541076653793183
+Test MCC:      0.50709255283711
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.8333333333333334
+Test AUC:      0.888888888888889
+Test Log-Loss: 0.5064747002172211
+Test MCC:      0.7071067811865476
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.8333333333333334
+Test AUC:      0.9722222222222223
+Test Log-Loss: 0.4762887457494585
+Test MCC:      0.6666666666666666
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.8333333333333334
+Test AUC:      0.9166666666666667
+Test Log-Loss: 0.49108621195120955
+Test MCC:      0.6666666666666666
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.9166666666666666
+Test AUC:      1.0
+Test Log-Loss: 0.43921623394774234
+Test MCC:      0.8451542547285166
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.8333333333333334
+Test AUC:      1.0
+Test Log-Loss: 0.474926873146166
+Test MCC:      0.7071067811865476
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.9166666666666666
+Test AUC:      1.0
+Test Log-Loss: 0.3948205091462385
+Test MCC:      0.8451542547285166
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.9166666666666666
+Test AUC:      1.0
+Test Log-Loss: 0.4504413002391441
+Test MCC:      0.8451542547285166
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.8333333333333334
+Test AUC:      0.9444444444444444
+Test Log-Loss: 0.4480373949158385
+Test MCC:      0.6666666666666666
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.6666666666666666
+Test AUC:      0.7777777777777778
+Test Log-Loss: 0.5660580924960471
+Test MCC:      0.3535533905932738
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.8333333333333334
+Test AUC:      0.9722222222222223
+Test Log-Loss: 0.47672698716617434
+Test MCC:      0.7071067811865476
+
+Baseline 1:  0.5
+
+Test Accuracy: 1.0
+Test AUC:      1.0
+Test Log-Loss: 0.47791638149412696
+Test MCC:      1.0
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      0.888888888888889
+Test Log-Loss: 0.5095840891979042
+Test MCC:      0.50709255283711
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.6666666666666666
+Test AUC:      0.7777777777777778
+Test Log-Loss: 0.5634845986484013
+Test MCC:      0.3333333333333333
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.8333333333333334
+Test AUC:      0.8194444444444444
+Test Log-Loss: 0.558302256988156
+Test MCC:      0.7071067811865476
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.9166666666666666
+Test AUC:      0.9722222222222223
+Test Log-Loss: 0.5268031154708783
+Test MCC:      0.8451542547285166
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.9166666666666666
+Test AUC:      0.9722222222222223
+Test Log-Loss: 0.372201237269147
+Test MCC:      0.8451542547285166
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      0.888888888888889
+Test Log-Loss: 0.4604967486227822
+Test MCC:      0.50709255283711
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      0.8055555555555556
+Test Log-Loss: 0.5811840799937376
+Test MCC:      0.5773502691896257
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      0.888888888888889
+Test Log-Loss: 0.5507458024683162
+Test MCC:      0.50709255283711
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.8333333333333334
+Test AUC:      1.0
+Test Log-Loss: 0.36823723063664976
+Test MCC:      0.7071067811865476
+
+Baseline 1:  0.5
+
+Test Accuracy: 0.75
+Test AUC:      0.8333333333333333
+Test Log-Loss: 0.5325844746686232
+Test MCC:      0.5773502691896257
+

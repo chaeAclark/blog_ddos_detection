@@ -1,0 +1,68 @@
+id	common name	filename	year	month	day	cause	people affected	data start timestamp (UTC)	data end timestamp (UTC)	disruption day start timestamp	disruption day end timestamp	disruption start timestamp (UTC)	disruption end timestamp (UTC)	duration (seconds)	countries (ISO numeric code)	cities	entity responsible
+3	Apple App Store Outage		2015	3	11	DNS				1426032000				39600			
+49	Argentina Blackout		2019	6	16	Power Outage	48000000							0			
+28	AWS Outage		2018	3	2	Power Outage				1519948800							
+5	AWS Route Leak		2015	6	30	BGP Update				1435622400				2520			
+13	AWS Route Leak 2		2016	4	22	BGP Update				1461283200							
+22	AWS S3 Outage		2017	2	28	Misconfiguration				1488240000							
+42	Bangladesh Blackout		2014	11	1	Power Outage	150000000							0			
+37	Banking DDoS		2012	12	11	DDoS								0			
+11	bbc.co.uk Outage		2015	12	31					1451520000				14400			
+18	BGP Jira Offline		2016	7	10	BGP Update				1468108800							
+46	Brazil-Paraguay Blackout		2009	11	10	Power Outage	60000000							0			
+21	Canadian Immigration Site Down		2016	11	8	Overload				1478563200							
+30	CenturyLink Outage		2018	12	27	Misconfiguration				1545868800				0			NA
+32	Cloudflare Bug		2019	7	2	Misconfiguration				1562025600				0			
+36	Cloudflare DDoS		2014	2	10	DDoS								0			
+29	Comcast Outage		2018	6	29	Cable Cut				1530230400							NA
+54	Cyclone Idai		2019	3	4	Natural Disaster								0			
+65	Cyclone Nargis		2008	4	27	Natural Disaster								0			
+66	Cyclone Sidr		2007	11	11	Natural Disaster								0			
+17	DNS Root Attack		2016	6	25	DDoS				1466812800							
+20	Dyn Cyberattack		2016	10	21	DDoS				1477008000				86400			NA
+57	Ecuador Earthquake		2016	4	16	Natural Disaster								0			
+40	Estonia Cyberattacks		2007	4	27	DDoS								0			
+1	Facebook Outage		2015	1	26	Misconfiguration				1422230400				3600			
+15	Fault in SEA-ME-WE-4 Line		2016	5	17	Cable Cut				1463443200							
+34	Github DDoS		2018	2	28	DDoS				1519776000				0			
+52	Haiti Earthquake		2010	1	12	Natural Disaster								0			
+53	Hurricane Katrina		2005	8	23	Natural Disaster								0			
+56	Hurricane Maria		2017	9	19	Natural Disaster								0			
+38	Imperva DDoS I		2019	1	10	DDoS								0			
+39	Imperva DDoS II		2019	4	30	DDoS								0			
+41	India Blackouts		2012	7	30	Power Outage	620000000							0			
+69	Indian Ocean Earthquake		2004	12	26	Natural Disaster								0			
+47	Italy Blackout		2003	9	28	Power Outage	56000000							0			
+10	Janet Network Incident		2015	12	8	DDoS				1449532800							
+44	Java Blackout		2019	8	4	Power Outage	120000000							0			
+45	Java-Bali Blackout		2005	8	18	Power Outage	100000000							0			
+68	Kashmir Earthquake		2005	10	8	Natural Disaster								0			
+19	Krebs on Security DDoS		2016	9	13	DDoS				1473724800							
+24	Level 3 Comcast Leak		2017	11	6	BGP Update				1509926400							
+4	Level 3 Route Leak		2015	6	12	BGP Update				1434067200				7200			
+59	Ludian Earthquake		2014	8	3	Natural Disaster								0			
+25	Marketo Outage		2017	7	25	DNS				1500940800							
+51	Myanmar Cyclone		2008	5	3	Natural Disaster								0			
+58	Nepal Earthquake		2015	4	25	Natural Disaster								0			
+48	Northeast Blackout		2003	8	14	Power Outage	55000000							0			
+33	Northern VA Power Outage		2019	5	23	Power Outage				1558569600				0			
+16	NS1 DNS Attack		2016	5	16	DDoS				1463356800							
+6	NYSE Update		2015	7	8	Misconfiguration				1436313600				14400			
+43	Pakistan Blackout		2015	1	26	Power Outage	140000000							0			
+12	Powerball Website Down		2016	1	13	Overload				1452643200							
+27	Russian e-Commerce Site Hijack		2017	12	12	BGP Update				1513036800							
+23	Russian Tech Site Hijack		2017	4	26	BGP Update				1493164800							
+35	Spamhaus DDoS		2013	3	19	DDoS								0			
+50	Sri Lanka Blackout		2016	3	13	Power Outage	21000000							0			
+55	Sulawesi Earthquake		2018	9	28	Natural Disaster								0			
+64	Sumatra Earthquake		2009	9	30	Natural Disaster								0			
+2	Tata Communications Cut		2015	2	25	Cable Cut				1424822400				14400			
+62	Tohoku Earthquake		2011	3	11	Natural Disaster								0			
+14	Transcontinental Issues (Level 3)		2016	5	3	Cable Cut				1462233600							
+61	Typhoon Bopha		2012	12	4	Natural Disaster								0			
+60	Typhoon Haiyan		2013	11	3	Natural Disaster								0			
+9	UltraDNS Error		2015	10	15	Misconfiguration				1444867200				9000			
+7	United Airlines Routing Issue		2015	7	8	BGP Update				1436313600				5400			
+31	Verizon Route Leak		2019	6	24	BGP Update				1561334400				0			
+8	Wallstreet Journal Server Overload		2015	7	8	Overload				1436313600				3600			
+67	Yogyakarta Earthquake		2006	5	26	Natural Disaster								0			
