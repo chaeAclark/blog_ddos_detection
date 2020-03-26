@@ -1,12 +1,9 @@
 import pickle
 import random
-
 import numpy as np
 import pandas as pd
-
 import seaborn as sb
 import matplotlib.pyplot as plt
-
 from collections import Counter
 
 from sklearn.decomposition import PCA
@@ -36,10 +33,12 @@ TRIALS = 50         # trials
 STEP = 3            # ensures no poisoning of results (DO NOT CHANGE)
 PCA_DIM = 40        # projection dimension (should be <= DATA_LIMIT)
 
+
 def process_cause(x):
     if CAUSES[CAUSE_INDEX].lower() in x.lower():
         return "positive_class"
     return "negative_class"
+
 
 def preprocess_data(data_folder=DATA_FOLDER,
                     label_filename=LABEL_FILENAME,
